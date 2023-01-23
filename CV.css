@@ -1,0 +1,184 @@
+#contener{
+    border:medium hotpink inset;
+    width: 400px;
+    height: 600px;
+    position: relative;
+    margin: 0px auto 0px auto;
+    border-radius: 7px 7px 7px 7px;
+    background-color: #f2dfdf;
+    box-shadow: 20px 20px 20px #210e15;
+}
+body{
+    background-color: wheat;
+}
+#entete{
+    height: 100px;
+    width: 400px;
+    border-radius: 6px 6px 6px 0px;
+    background-color: coral;
+}
+#photo{
+    height: 90px;
+    width: 70px;
+    background-color:wheat ;
+    margin-left: 20px;
+    border-radius: 0px 0px 5px 5px;
+    position: absolute;
+}
+#photos{
+    margin: 10px;
+}
+#corp{
+    height: 420px;
+    width:400px ;
+    background-color: wheat;
+
+
+}
+#gauche{
+    height: 420px;
+    width: 140px;
+
+    float: left;
+    padding-left: 10px;
+    border-radius: 0px 0px 12px 0px;
+    background-color: lightsalmon;
+}
+#droite{
+    width: 240px;
+    height: 420px;
+    float: right;
+}
+#info{
+    margin-left: 120px;
+    height: 80px;
+    width: 180px;
+    padding-top: 10px;
+    border-color: #210e15;
+    border: 3px;
+    border-style: dotted;
+    padding-left: 20px;
+
+
+}
+
+.gen{
+    width: 120px;
+    font-size: 0.7pc;
+    font-family: Ebrima;
+    display: block;
+    margin-top: 0px;
+    color: black;
+    position: relative;
+}
+
+
+.pasgen{
+    width: 45px;
+    font-size: 0.7pc;
+    font-family: Ebrima;
+    display: block;
+    margin-top: 0px;
+    color: #444243;
+    position: relative;
+
+    margin-left: 80px;
+
+}
+#pied{
+    height: 80px;
+    width: 400px;
+    background-color: orangered;
+    border-radius: 0px 12px 6px 6px;
+    background-color: lightsalmon ;
+
+
+}
+
+.text{
+    text-align: center;
+    margin-top: 0px;
+    font-family: Ebrima;
+    color: wheat;
+}
+.logo{
+    margin-left: 75px;
+    right: 70px;
+    left: 70px;
+}
+#tel{
+    width: 75px;
+    height: 15px;
+    margin-left:5px;
+    margin-top: 10px;
+
+
+
+}
+.num{
+    font-style: oblique;
+    font-size: 9.5px;
+    font-family: Ebrima;
+    color: #F2DFDF;
+}
+#contact{
+    margin-left: 7px;
+    font-family: Ebrima;
+}
+.cont{
+    font-style:italic;
+    font-family: Ebrima;
+
+}
+#adresse{
+    margin-left: 5px;
+}
+#mail{
+    margin-left: 5px;
+}
+#competence{
+    margin-left: 6px;
+}
+hr{
+    color: #c17393;
+}
+
+#Langue{
+    margin-left: 6px;
+}
+#profil{
+    margin-right: 50px;
+
+}
+.titre{
+    margin-left: 80px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    color: #642e44;
+
+}
+.par{
+    font-style: oblique;
+    font-size: 8px;
+    font-family: Ebrima;
+    color: #46232a;
+    margin-left: 5px;
+
+}
+#diplome{
+    margin-right: 50px;
+
+
+}
+.exp{
+    margin-left: 25px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    color: #642e44;
+
+
+}
+#exp{
+    margin-right: 50px;
+}
+
